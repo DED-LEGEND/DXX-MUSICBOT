@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO",
+        "value": "https://github.com/DED-LEGEND/DXX-MUSICBOT",
         "required": true
       },
       "UPSTREAM_BRANCH": {
